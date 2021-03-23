@@ -1,0 +1,10 @@
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\Teórica\GerenciadorGastos\ControleGastos\ControleGastos\bin\Debug\ControleGastos.exe.config
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\Teórica\GerenciadorGastos\ControleGastos\ControleGastos\bin\Debug\ControleGastos.exe
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\Teórica\GerenciadorGastos\ControleGastos\ControleGastos\bin\Debug\ControleGastos.pdb
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\Teórica\GerenciadorGastos\ControleGastos\ControleGastos\obj\Debug\ControleGastos.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\Teórica\GerenciadorGastos\ControleGastos\ControleGastos\obj\Debug\ControleGastos.frmControl.resources
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\Teórica\GerenciadorGastos\ControleGastos\ControleGastos\obj\Debug\ControleGastos.Properties.Resources.resources
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\Teórica\GerenciadorGastos\ControleGastos\ControleGastos\obj\Debug\ControleGastos.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\Teórica\GerenciadorGastos\ControleGastos\ControleGastos\obj\Debug\ControleGastos.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\Teórica\GerenciadorGastos\ControleGastos\ControleGastos\obj\Debug\ControleGastos.exe
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\Teórica\GerenciadorGastos\ControleGastos\ControleGastos\obj\Debug\ControleGastos.pdb

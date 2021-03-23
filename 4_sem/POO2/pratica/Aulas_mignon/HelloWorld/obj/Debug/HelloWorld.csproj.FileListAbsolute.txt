@@ -1,0 +1,10 @@
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\Aulas_mignon\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\Aulas_mignon\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\Aulas_mignon\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\Aulas_mignon\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\Aulas_mignon\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\Aulas_mignon\HelloWorld\obj\Debug\HelloWorld.frmPrincipal.resources
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\Aulas_mignon\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\Aulas_mignon\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\Aulas_mignon\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\Aulas_mignon\HelloWorld\obj\Debug\HelloWorld.pdb

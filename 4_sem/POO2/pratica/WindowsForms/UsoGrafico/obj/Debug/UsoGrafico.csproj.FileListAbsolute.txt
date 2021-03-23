@@ -1,0 +1,10 @@
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\WindowsForms\UsoGrafico\bin\Debug\UsoGrafico.exe.config
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\WindowsForms\UsoGrafico\bin\Debug\UsoGrafico.exe
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\WindowsForms\UsoGrafico\bin\Debug\UsoGrafico.pdb
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\WindowsForms\UsoGrafico\obj\Debug\UsoGrafico.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\WindowsForms\UsoGrafico\obj\Debug\UsoGrafico.Form1.resources
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\WindowsForms\UsoGrafico\obj\Debug\UsoGrafico.Properties.Resources.resources
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\WindowsForms\UsoGrafico\obj\Debug\UsoGrafico.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\WindowsForms\UsoGrafico\obj\Debug\UsoGrafico.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\WindowsForms\UsoGrafico\obj\Debug\UsoGrafico.exe
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\WindowsForms\UsoGrafico\obj\Debug\UsoGrafico.pdb

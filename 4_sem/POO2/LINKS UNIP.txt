@@ -1,0 +1,8 @@
+https://bit.ly/3j0e61r
+Senha: ADS2020
+
+requisitos -> analise dos dados(diagramas) -> banco de dados ->
+programar a interface -> criar as classes-> deixar inteligente o programa->
+query(persistencia de dados) add, update, delete e etc.->
+
+https://sites.google.com/view/unip-amignon/

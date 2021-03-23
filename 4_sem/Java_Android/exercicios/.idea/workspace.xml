@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9125b3c-af92-4089-b874-74c07eaa37e8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1jVUNwHabb6QyUgUhucDdOyQLxU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9125b3c-af92-4089-b874-74c07eaa37e8" name="Default Changelist" comment="" />
+      <created>1603888716118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603888716118</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="625" y="185" key="FileChooserDialogImpl" timestamp="1603888916805">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="625" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1603888916805" />
+    <state x="541" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1603888876342">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="541" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1603888876342" />
+  </component>
+</project>

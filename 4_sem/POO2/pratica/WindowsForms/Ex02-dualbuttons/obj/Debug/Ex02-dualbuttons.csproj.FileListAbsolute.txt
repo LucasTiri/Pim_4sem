@@ -1,0 +1,10 @@
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\WindowsForms\Ex02-dualbuttons\bin\Debug\Ex02-dualbuttons.exe.config
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\WindowsForms\Ex02-dualbuttons\bin\Debug\Ex02-dualbuttons.exe
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\WindowsForms\Ex02-dualbuttons\bin\Debug\Ex02-dualbuttons.pdb
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\WindowsForms\Ex02-dualbuttons\obj\Debug\Ex02-dualbuttons.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\WindowsForms\Ex02-dualbuttons\obj\Debug\Ex02_dualbuttons.Form1.resources
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\WindowsForms\Ex02-dualbuttons\obj\Debug\Ex02_dualbuttons.Properties.Resources.resources
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\WindowsForms\Ex02-dualbuttons\obj\Debug\Ex02-dualbuttons.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\WindowsForms\Ex02-dualbuttons\obj\Debug\Ex02-dualbuttons.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\WindowsForms\Ex02-dualbuttons\obj\Debug\Ex02-dualbuttons.exe
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\WindowsForms\Ex02-dualbuttons\obj\Debug\Ex02-dualbuttons.pdb

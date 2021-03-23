@@ -1,0 +1,13 @@
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\WindowsForms\HelloSexta\bin\Debug\netcoreapp3.1\HelloSexta.exe
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\WindowsForms\HelloSexta\bin\Debug\netcoreapp3.1\HelloSexta.deps.json
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\WindowsForms\HelloSexta\bin\Debug\netcoreapp3.1\HelloSexta.runtimeconfig.json
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\WindowsForms\HelloSexta\bin\Debug\netcoreapp3.1\HelloSexta.runtimeconfig.dev.json
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\WindowsForms\HelloSexta\bin\Debug\netcoreapp3.1\HelloSexta.dll
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\WindowsForms\HelloSexta\bin\Debug\netcoreapp3.1\HelloSexta.pdb
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\WindowsForms\HelloSexta\obj\Debug\netcoreapp3.1\HelloSexta.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\WindowsForms\HelloSexta\obj\Debug\netcoreapp3.1\HelloSexta.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\WindowsForms\HelloSexta\obj\Debug\netcoreapp3.1\HelloSexta.AssemblyInfo.cs
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\WindowsForms\HelloSexta\obj\Debug\netcoreapp3.1\HelloSexta.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\WindowsForms\HelloSexta\obj\Debug\netcoreapp3.1\HelloSexta.dll
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\WindowsForms\HelloSexta\obj\Debug\netcoreapp3.1\HelloSexta.pdb
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\WindowsForms\HelloSexta\obj\Debug\netcoreapp3.1\HelloSexta.genruntimeconfig.cache

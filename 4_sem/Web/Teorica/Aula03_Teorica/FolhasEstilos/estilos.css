@@ -1,0 +1,21 @@
+﻿/*declaração do id geral
+    No arquivo CSS externo
+*/
+#para1 {
+    text-align: center;
+    color: red;
+}
+
+/*seletor class*/
+h1.intro {
+    color: blue;
+}
+
+p.importante {
+    color: red;
+}
+
+.center{
+    text-align:center;
+}
+

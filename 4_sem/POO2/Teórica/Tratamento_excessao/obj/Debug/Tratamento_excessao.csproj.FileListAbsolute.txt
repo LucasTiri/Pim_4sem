@@ -1,0 +1,7 @@
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\Teórica\Tratamento_excessao\bin\Debug\Tratamento_excessao.exe.config
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\Teórica\Tratamento_excessao\bin\Debug\Tratamento_excessao.exe
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\Teórica\Tratamento_excessao\bin\Debug\Tratamento_excessao.pdb
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\Teórica\Tratamento_excessao\obj\Debug\Tratamento_excessao.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\Teórica\Tratamento_excessao\obj\Debug\Tratamento_excessao.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\Teórica\Tratamento_excessao\obj\Debug\Tratamento_excessao.exe
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\Teórica\Tratamento_excessao\obj\Debug\Tratamento_excessao.pdb

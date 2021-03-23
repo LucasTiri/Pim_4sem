@@ -1,0 +1,11 @@
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\Autenticação\Autenticação\obj\Debug\Autenticação.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\Autenticação\Autenticação\obj\Debug\Autenticação.Form1.resources
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\Autenticação\Autenticação\obj\Debug\Autenticação.Properties.Resources.resources
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\Autenticação\Autenticação\obj\Debug\Autenticação.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\Autenticação\Autenticação\obj\Debug\Autenticação.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\Autenticação\Autenticação\bin\Debug\Autenticação.exe.config
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\Autenticação\Autenticação\bin\Debug\Autenticação.exe
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\Autenticação\Autenticação\bin\Debug\Autenticação.pdb
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\Autenticação\Autenticação\obj\Debug\Autenticação.exe
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\Autenticação\Autenticação\obj\Debug\Autenticação.pdb
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\Autenticação\Autenticação\obj\Debug\Autenticação.tela_prof.resources

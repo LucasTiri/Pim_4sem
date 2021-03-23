@@ -1,0 +1,10 @@
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\Aulas_mignon\Troca_valores\bin\Debug\Troca_valores.exe.config
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\Aulas_mignon\Troca_valores\bin\Debug\Troca_valores.exe
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\Aulas_mignon\Troca_valores\bin\Debug\Troca_valores.pdb
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\Aulas_mignon\Troca_valores\obj\Debug\Troca_valores.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\Aulas_mignon\Troca_valores\obj\Debug\Troca_valores.frmTroca_val.resources
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\Aulas_mignon\Troca_valores\obj\Debug\Troca_valores.Properties.Resources.resources
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\Aulas_mignon\Troca_valores\obj\Debug\Troca_valores.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\Aulas_mignon\Troca_valores\obj\Debug\Troca_valores.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\Aulas_mignon\Troca_valores\obj\Debug\Troca_valores.exe
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\Aulas_mignon\Troca_valores\obj\Debug\Troca_valores.pdb

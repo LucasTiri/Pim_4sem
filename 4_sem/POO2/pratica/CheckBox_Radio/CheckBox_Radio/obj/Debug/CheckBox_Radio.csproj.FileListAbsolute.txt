@@ -1,0 +1,10 @@
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\CheckBox_Radio\CheckBox_Radio\bin\Debug\CheckBox_Radio.exe.config
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\CheckBox_Radio\CheckBox_Radio\bin\Debug\CheckBox_Radio.exe
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\CheckBox_Radio\CheckBox_Radio\bin\Debug\CheckBox_Radio.pdb
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\CheckBox_Radio\CheckBox_Radio\obj\Debug\CheckBox_Radio.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\CheckBox_Radio\CheckBox_Radio\obj\Debug\CheckBox_Radio.Form1.resources
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\CheckBox_Radio\CheckBox_Radio\obj\Debug\CheckBox_Radio.Properties.Resources.resources
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\CheckBox_Radio\CheckBox_Radio\obj\Debug\CheckBox_Radio.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\CheckBox_Radio\CheckBox_Radio\obj\Debug\CheckBox_Radio.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\CheckBox_Radio\CheckBox_Radio\obj\Debug\CheckBox_Radio.exe
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\pratica\CheckBox_Radio\CheckBox_Radio\obj\Debug\CheckBox_Radio.pdb

@@ -1,0 +1,7 @@
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\Teórica\ExemploNomesDB\EXNomesDB2\Ex2\bin\Debug\Ex2.exe.config
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\Teórica\ExemploNomesDB\EXNomesDB2\Ex2\bin\Debug\Ex2.exe
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\Teórica\ExemploNomesDB\EXNomesDB2\Ex2\bin\Debug\Ex2.pdb
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\Teórica\ExemploNomesDB\EXNomesDB2\Ex2\obj\Debug\Ex2.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\Teórica\ExemploNomesDB\EXNomesDB2\Ex2\obj\Debug\Ex2.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\Teórica\ExemploNomesDB\EXNomesDB2\Ex2\obj\Debug\Ex2.exe
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\POO2\Teórica\ExemploNomesDB\EXNomesDB2\Ex2\obj\Debug\Ex2.pdb

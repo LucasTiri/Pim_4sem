@@ -1,0 +1,11 @@
+C:\Users\salat\Documents\Livros\Unip\CamadaModelo\bin\Debug\CamadaModelo.dll
+C:\Users\salat\Documents\Livros\Unip\CamadaModelo\bin\Debug\CamadaModelo.pdb
+C:\Users\salat\Documents\Livros\Unip\CamadaModelo\obj\Debug\CamadaModelo.csprojAssemblyReference.cache
+C:\Users\salat\Documents\Livros\Unip\CamadaModelo\obj\Debug\CamadaModelo.csproj.CoreCompileInputs.cache
+C:\Users\salat\Documents\Livros\Unip\CamadaModelo\obj\Debug\CamadaModelo.dll
+C:\Users\salat\Documents\Livros\Unip\CamadaModelo\obj\Debug\CamadaModelo.pdb
+C:\Users\salat\OneDrive - Universidade Paulista\DSI_Alphaville\PIM\CamadaModelo\bin\Debug\CamadaModelo.dll
+C:\Users\salat\OneDrive - Universidade Paulista\DSI_Alphaville\PIM\CamadaModelo\bin\Debug\CamadaModelo.pdb
+C:\Users\salat\OneDrive - Universidade Paulista\DSI_Alphaville\PIM\CamadaModelo\obj\Debug\CamadaModelo.csproj.CoreCompileInputs.cache
+C:\Users\salat\OneDrive - Universidade Paulista\DSI_Alphaville\PIM\CamadaModelo\obj\Debug\CamadaModelo.dll
+C:\Users\salat\OneDrive - Universidade Paulista\DSI_Alphaville\PIM\CamadaModelo\obj\Debug\CamadaModelo.pdb

@@ -1,0 +1,11 @@
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\forms\AcessoBD\AcessoBD\bin\Debug\AcessoBD.exe.config
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\forms\AcessoBD\AcessoBD\bin\Debug\AcessoBD.exe
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\forms\AcessoBD\AcessoBD\bin\Debug\AcessoBD.pdb
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\forms\AcessoBD\AcessoBD\obj\Debug\AcessoBD.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\forms\AcessoBD\AcessoBD\obj\Debug\AcessoBD.Form1.resources
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\forms\AcessoBD\AcessoBD\obj\Debug\AcessoBD.Form2.resources
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\forms\AcessoBD\AcessoBD\obj\Debug\AcessoBD.Properties.Resources.resources
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\forms\AcessoBD\AcessoBD\obj\Debug\AcessoBD.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\forms\AcessoBD\AcessoBD\obj\Debug\AcessoBD.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\forms\AcessoBD\AcessoBD\obj\Debug\AcessoBD.exe
+C:\Users\T-Gamer\Desktop\CORONA\4_sem\forms\AcessoBD\AcessoBD\obj\Debug\AcessoBD.pdb

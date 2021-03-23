@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppNav", "WebAppNav\WebAppNav.csproj", "{CC2E340C-404E-4956-AD1A-984DF905718A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "appWebLogin", "appWebLogin\appWebLogin.csproj", "{2D4E547D-2BFC-409A-BAA9-2ECB7EBC91D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC2E340C-404E-4956-AD1A-984DF905718A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC2E340C-404E-4956-AD1A-984DF905718A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC2E340C-404E-4956-AD1A-984DF905718A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC2E340C-404E-4956-AD1A-984DF905718A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D4E547D-2BFC-409A-BAA9-2ECB7EBC91D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D4E547D-2BFC-409A-BAA9-2ECB7EBC91D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D4E547D-2BFC-409A-BAA9-2ECB7EBC91D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D4E547D-2BFC-409A-BAA9-2ECB7EBC91D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7713C0FD-CE3F-48A7-AC48-5207C101C087}
+	EndGlobalSection
+EndGlobal

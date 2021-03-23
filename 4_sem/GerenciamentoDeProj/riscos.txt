@@ -1,0 +1,8 @@
+Gerencia de risco e analise de risco:
+-Gerencia de risco é quem define uma maneira previsivel de lidar com os imprevistos
+(pensa-se em coisas que se podem acontecer(na analise de risco),
+e se procura previnir antes de algum acidente)
+
+-Analise de risco Define um conjunto de atividades que visam identificar os fatores de risco,
+avaliar seu possível impacto e definir ações a serem executadas para reduzir
+ou eliminar a influencia destes fatores no resultado desejado.

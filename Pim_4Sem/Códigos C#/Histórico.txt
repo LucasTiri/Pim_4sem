@@ -1,0 +1,33 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace template_Pim
+{
+    public partial class HistUltimasVendas : Form
+    {
+        public HistUltimasVendas()
+        {
+            InitializeComponent();
+
+        }
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void HistUltimasVendas_Load(object sender, EventArgs e)
+        {
+            // TODO: esta linha de código carrega dados na tabela 'pimDataSet.tb_Saldo_histórico'. Você pode movê-la ou removê-la conforme necessário.
+            this.tb_Saldo_históricoTableAdapter.Fill(this.pimDataSet.tb_Saldo_histórico);
+
+        }
+    }
+}

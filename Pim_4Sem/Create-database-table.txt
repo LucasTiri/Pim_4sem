@@ -1,0 +1,75 @@
+CREATE DATABASE Pim
+
+USE [Pim]
+GO
+
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[tbUser](
+	[idUser] [varchar](4) NOT NULL,
+	[Nome] [varchar](50) NULL,
+	[Conta_Banco] [varchar](50) NULL,
+	[Email] [varchar](50) NULL,
+	[Senha] [varchar](50) NULL,
+	[DataNasc] [date] NULL,
+	[idSaldo] [varchar](50) NULL,
+ CONSTRAINT [PK_tbUser] PRIMARY KEY CLUSTERED 
+(
+	[idUser] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+ALTER TABLE [dbo].[tbUser]  WITH CHECK ADD  CONSTRAINT [FK_tbUser_tbSaldo] FOREIGN KEY([idSaldo])
+REFERENCES [dbo].[tbSaldo] ([idSaldo])
+GO
+
+ALTER TABLE [dbo].[tbUser] CHECK CONSTRAINT [FK_tbUser_tbSaldo]
+GO
+
+USE [Pim]
+GO
+
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[tbSaldo](
+	[idSaldo] [varchar](50) NOT NULL,
+	[Saldo_R$] [real] NULL,
+	[Saldo_Bitcoin] [real] NULL,
+ CONSTRAINT [PK_tbSaldo] PRIMARY KEY CLUSTERED 
+(
+	[idSaldo] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+USE [Pim]
+GO
+
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[tb_Saldo_histórico](
+	[idHist] [int] IDENTITY(1,1) NOT NULL,
+	[idSaldo] [varchar](50) NULL,
+	[Saldo_R$] [varchar](50) NULL,
+	[Saldo_Bitcoin] [varchar](50) NULL,
+	[Data] [datetime] NULL,
+	[Acao] [varchar](15) NULL,
+ CONSTRAINT [PK_tb_Saldo_histórico] PRIMARY KEY CLUSTERED 
+(
+	[idHist] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO

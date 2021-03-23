@@ -1,0 +1,36 @@
+USE [Pim]
+GO
+
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+ALTER TRIGGER [dbo].[Trigger_Compra_Historico_Saldo]
+ON [dbo].[tbSaldo]
+AFTER
+update
+AS
+IF update(Saldo_R$)
+
+BEGIN
+
+	DECLARE @oldSaldo float
+	DECLARE @Saldo_R$ float
+
+	SELECT @oldSaldo = Saldo_R$ from deleted
+	SELECT @Saldo_R$ = Saldo_R$ from inserted
+
+	if(@oldSaldo > @Saldo_R$) 
+		Insert Into dbo.tb_Saldo_histórico
+		(idSaldo,Saldo_R$,Saldo_Bitcoin,Data,Acao)
+
+		select idSaldo,Saldo_R$,Saldo_Bitcoin,GETDATE(),'COMPRA' 
+		from inserted where idSaldo=idSaldo
+
+	if(@oldSaldo < @Saldo_R$)
+		Insert Into dbo.tb_Saldo_histórico
+		(idSaldo,Saldo_R$,Saldo_Bitcoin,Data,Acao)
+
+		select idSaldo,Saldo_R$,Saldo_Bitcoin,GETDATE(),'VENDA'
+		from inserted where idSaldo=idSaldo
+END

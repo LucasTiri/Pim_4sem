@@ -1,0 +1,206 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.Data.SqlClient;
+
+namespace template_Pim
+{
+    public partial class HistClientes : Form
+    {
+        public HistClientes()
+        {
+            InitializeComponent();
+
+            txtidUser.Enabled = false;
+            txtIdSaldo.Enabled = false;
+            txtConta.Enabled = false;
+            txtEmail.Enabled = false;
+            txtNome.Enabled = false;
+            txtSenha.Enabled = false;
+            maskedtxtDataNasc.Enabled = false;
+            txtReais.Enabled = false;
+            txtBitCoin.Enabled = false;
+            btnDelete.Enabled = false;
+            btnSalvar.Enabled = false;
+            btnUpdate.Enabled = false;
+        }
+
+        SqlConnection conn = null;
+        private string strconn = @"Data Source=DESKTOP-F9GHF2T\SQLEXPRESS;Initial Catalog=Pim;Integrated Security=True";
+        private string strSQL = string.Empty;
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void HistClientes_Load(object sender, EventArgs e)
+        {
+            this.tbUserTableAdapter.Fill(this.pimDataSet.tbUser);
+            this.tbSaldoTableAdapter.Fill(this.pimDataSet.tbSaldo);
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            txtidUser.Enabled = true;
+            txtIdSaldo.Enabled = true;
+            txtConta.Enabled = true;
+            txtEmail.Enabled = true;
+            txtNome.Enabled = true;
+            txtSenha.Enabled = true;
+            maskedtxtDataNasc.Enabled = true;
+            txtReais.Enabled = true;
+            txtBitCoin.Enabled = true;
+            dataGridView1.Refresh();
+            dataGridView2.Refresh();
+            btnDelete.Enabled = true;
+            btnSalvar.Enabled = true;
+            btnUpdate.Enabled = true;
+
+
+        }
+
+        private void btnSalvar_Click(object sender, EventArgs e)
+        {
+            //strSQL = "Insert Into Pim (Nome,Conta_Banco,Email,Senha,DataNasc) values (@Nome,@Conta_Banco,@Email,@Senha,@DataNasc)";
+
+            conn = new SqlConnection(strconn);
+
+            SqlCommand cmd = new SqlCommand(strSQL,conn);
+            cmd.CommandText = "Insert Into tbUser (idUser,Nome,Conta_Banco,Email,Senha,DataNasc,idSaldo) values (@idUser,@Nome,@Conta_Banco,@Email,@Senha,@DataNasc,@idSaldo)";
+            cmd.Parameters.Add("@idSaldo", SqlDbType.VarChar).Value = txtIdSaldo.Text;
+            cmd.Parameters.Add("@idUser", SqlDbType.VarChar).Value = txtidUser.Text;
+            cmd.Parameters.Add("@Nome",SqlDbType.VarChar).Value = txtNome.Text;
+            cmd.Parameters.Add("@Conta_Banco", SqlDbType.VarChar).Value = txtConta.Text;
+            cmd.Parameters.Add("@Email", SqlDbType.VarChar).Value = txtEmail.Text;
+            cmd.Parameters.Add("@Senha", SqlDbType.VarChar).Value = txtSenha.Text;
+            cmd.Parameters.Add("@DataNasc", SqlDbType.Date).Value = maskedtxtDataNasc.Text;
+
+            cmd.CommandText = "Insert Into tbSaldo(idSaldo,Saldo_R$,Saldo_bitcoin) values(@idS,@R$,@bit)";
+            cmd.Parameters.Add("@idS", SqlDbType.VarChar).Value = txtIdSaldo.Text;
+            cmd.Parameters.Add("@R$", SqlDbType.Float).Value = txtReais.Text;
+            cmd.Parameters.Add("@bit", SqlDbType.Float).Value = txtBitCoin.Text;
+            try
+            {
+                conn.Open();
+                cmd.ExecuteNonQuery();
+                MessageBox.Show("Cadastrado com sucesso!");
+            }
+            catch (SqlException ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            finally
+            {
+                conn.Close();
+            }
+            txtidUser.Clear();
+            txtIdSaldo.Clear();
+            txtConta.Clear();
+            txtEmail.Clear();
+            txtNome.Clear();
+            txtSenha.Clear();
+            maskedtxtDataNasc.Clear();
+            txtReais.Clear();
+            txtBitCoin.Clear();
+            dataGridView1.Refresh();
+            dataGridView2.Refresh();
+        }
+
+        private void btnDelete_Click(object sender, EventArgs e)
+        {
+
+            conn = new SqlConnection(strconn);
+
+            SqlCommand cmd = new SqlCommand(strSQL, conn);
+
+            cmd.CommandText = "Delete From tbUser where idUser=@idUser";
+            cmd.Parameters.Add("@idUser", SqlDbType.VarChar).Value=txtidUser.Text;
+
+
+            cmd.CommandText = "Delete From tbSaldo where idSaldo=@idSaldo";
+            cmd.Parameters.Add("@idSaldo", SqlDbType.VarChar).Value = txtIdSaldo.Text;
+
+            try
+            {
+                conn.Open();
+                cmd.ExecuteNonQuery();
+                MessageBox.Show("Apagado com Sucesso");
+            }
+            catch(SqlException ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            finally
+            {
+                conn.Close();
+            }
+            txtidUser.Clear();
+            txtIdSaldo.Clear();
+            txtConta.Clear();
+            txtEmail.Clear();
+            txtNome.Clear();
+            txtSenha.Clear();
+            txtReais.Clear();
+            txtBitCoin.Clear();
+            maskedtxtDataNasc.Clear();
+            dataGridView1.Refresh();
+            dataGridView2.Refresh();
+        }
+
+        private void btnUpdate_Click(object sender, EventArgs e)
+        {
+            //strSQL= "update tbUser set idSaldo=@idSaldo idUser=@idUser Nome=@Nome, Conta_Banco=@Conta_Banco, Email=@Email, Senha=@Senha, DataNasc=@DataNasc";
+
+            conn = new SqlConnection(strconn);
+
+            SqlCommand cmd = new SqlCommand(strSQL, conn);
+
+            cmd.CommandText = "update tbUser set idSaldo=@idSaldo, idUser=@idUser, Nome=@Nome, Conta_Banco=@Conta_Banco, Email=@Email, Senha=@Senha, DataNasc=@DataNasc where idSaldo=@idSaldo";
+            cmd.Parameters.Add("@idSaldo", SqlDbType.VarChar).Value = txtIdSaldo.Text;
+            cmd.Parameters.Add("@idUser", SqlDbType.VarChar).Value = txtidUser.Text;
+            cmd.Parameters.Add("@Nome", SqlDbType.VarChar).Value = txtNome.Text;
+            cmd.Parameters.Add("@Conta_Banco", SqlDbType.VarChar).Value = txtConta.Text;
+            cmd.Parameters.Add("@Email", SqlDbType.VarChar).Value = txtEmail.Text;
+            cmd.Parameters.Add("@Senha", SqlDbType.VarChar).Value = txtSenha.Text;
+            cmd.Parameters.Add("@DataNasc", SqlDbType.Date).Value = maskedtxtDataNasc.Text;
+
+            cmd.CommandText = "update tbSaldo set idSaldo=@idS, Saldo_R$=@R$, Saldo_Bitcoin=@bit where idSaldo=@idS";
+            cmd.Parameters.Add("@idS", SqlDbType.VarChar).Value = txtIdSaldo.Text;
+            cmd.Parameters.Add("@R$", SqlDbType.Float).Value = txtReais.Text;
+            cmd.Parameters.Add("@bit", SqlDbType.Float).Value = txtBitCoin.Text;
+            try
+            {
+                conn.Open();
+                cmd.ExecuteNonQuery();
+                MessageBox.Show("Atualizado com Sucesso!");
+            }
+            catch(SqlException ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            finally
+            {
+                conn.Close();
+            }
+            txtidUser.Clear();
+            txtIdSaldo.Clear();
+            txtConta.Clear();
+            txtEmail.Clear();
+            txtNome.Clear();
+            txtSenha.Clear();
+            txtReais.Clear();
+            txtBitCoin.Clear();
+            maskedtxtDataNasc.Clear();
+            dataGridView1.Refresh();
+            dataGridView2.Refresh();
+
+        }
+    }
+}

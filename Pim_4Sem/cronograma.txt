@@ -1,0 +1,7 @@
+08-10-2020 : analisando requisitos funcionais do sistema Desktop
+09-10-2020 : Instalando fazendo os botões e telas do sistema(Relatórios)
+==================================================
+-CRUD
+-Relatórios(parciais,diarios,mensais)=
+-Graficos
+-smart contracts
